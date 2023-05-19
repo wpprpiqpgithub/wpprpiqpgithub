@@ -17,3 +17,4 @@ var y =0;
         y-=40;
         image.style.top = y + "px";
     }
+
